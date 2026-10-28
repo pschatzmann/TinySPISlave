@@ -1,0 +1,8 @@
+TinySPISlave	KEYWORD1
+Config	KEYWORD1
+begin	KEYWORD2
+end	KEYWORD2
+poll	KEYWORD2
+onFrame	KEYWORD2
+rxOverflows	KEYWORD2
+isRunning	KEYWORD2
